@@ -1,4 +1,4 @@
-#include "ntt_nina.h"
+#include "ntt.h"
 
 
 // reduction of x * y using 64 bit arithmetic
