@@ -1,4 +1,4 @@
-#include "ntt_nina.h"
+#include "ntt.h"
 #include <iostream>
 #define n 1024U
 
